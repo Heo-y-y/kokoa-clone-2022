@@ -4,6 +4,11 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  /**/
+  position: fixed;
+  width: 100%;
+  box-sizing: border-box;
+  top: 5px;
 }
 .alt-header_column {
   width: 33%;

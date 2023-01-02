@@ -7,13 +7,18 @@
 }
 
 .welcome-header_title {
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   font-size: 25px;
+}
+.welcome-header_image {
+  width: 30%;
+  margin-top: 5px;
 }
 
 .welcome-header_text {
   width: 60%;
   opacity: 0.5;
+  color: grey;
 }
 
 #login-form {
